@@ -1,5 +1,7 @@
 # 伝達関数に基づく制御（YouTubeリンク）
 
+[（状態方程式に基づく制御）](https://github.com/Hiroshi-Okajima/control-education02-stateequation)
+
 ### 制御の基礎
 
 [![無題5](https://user-images.githubusercontent.com/112537733/188293703-7393b7a3-7bb1-4130-b68f-b113212c94f3.png)](https://youtu.be/fk2FTqotmFY)
