@@ -1,1 +1,1 @@
-# control-education01-frequencydomain
+# 伝達関数に基づく制御
