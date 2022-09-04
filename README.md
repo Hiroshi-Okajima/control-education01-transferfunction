@@ -16,11 +16,12 @@
 
 ### 安定性解析
 
+![無題5](https://user-images.githubusercontent.com/112537733/188293618-2f5ca513-df65-4e19-a202-25f89a213b8d.jpg)
+
 ![無題2](https://user-images.githubusercontent.com/112537733/188293620-70f08ee3-9a9f-47ce-87ea-bf115cb3390d.png)
 
 ![無題5](https://user-images.githubusercontent.com/112537733/188293596-2a5872ff-eba9-43a1-b06c-916454079e93.jpg)
 
-![無題5](https://user-images.githubusercontent.com/112537733/188293618-2f5ca513-df65-4e19-a202-25f89a213b8d.jpg)
 
 ### PID制御
 
