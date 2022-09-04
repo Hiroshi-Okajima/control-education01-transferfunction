@@ -4,6 +4,8 @@
 
 [![無題5](https://user-images.githubusercontent.com/112537733/188293703-7393b7a3-7bb1-4130-b68f-b113212c94f3.png)](https://youtu.be/fk2FTqotmFY)
 
+[![image](https://user-images.githubusercontent.com/112537733/188294272-5f8cf4c5-6dfc-48e1-9f89-964cb0f90d5d.png)](https://youtu.be/4ygdk0FKV-8)
+
 ### 伝達関数の基礎
 
 [![無題4](https://user-images.githubusercontent.com/112537733/188293698-a29dda42-c322-4915-b405-23466ea04a0f.png)](https://youtu.be/Pzbbp4h8cEs)
